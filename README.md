@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Speardrex&theme=dark)](https://git.io/streak-stats)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Speardrex&theme=dracula)
+
 
 <!--
 **Speardrex/Speardrex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
